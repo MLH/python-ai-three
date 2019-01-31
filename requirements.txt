@@ -1,0 +1,7 @@
+markovify==0.7.1
+Flask==1.0.2
+requests==2.21.0
+tweepy==3.7.0
+Flask_SocketIO==3.1.1
+beautifulsoup4==4.7.1
+python-dotenv==0.10.1
